@@ -1,0 +1,4 @@
+Name,SamAccountName,GivenName,Surname,UserPrincipalName,Path,Password
+"John Doe","jdoe","John","Doe","jdoe@spaceshuttle.local","OU=Human Resources,DC=spaceshuttle,DC=local","P@ssw0rd123!"
+"Jane Smith","jsmith","Jane","Smith","jsmith@spaceshuttle.local","OU=Human Resources,DC=spaceshuttle,DC=local","P@ssw0rd123!"
+"Kyle Walker","kwalker","Kyle","Walker","kwalker@spaceshuttle.local","OU=Human Resources,DC=spaceshuttle,DC=local","P@ssw0rd123!"
